@@ -30,7 +30,7 @@
     <mirror>
       <id>central</id>
       <name>abc-proj-nexus-central</name>
-      <url>http://10.182.0.4:8081/repository/abc-proj-nexus-group/</url>
+      <url>http://10.182.0.4:8081/repository/abc-proj-nexus-central</url>
       <mirrorOf>*</mirrorOf>
     </mirror>
   </mirrors>
